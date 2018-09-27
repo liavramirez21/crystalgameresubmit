@@ -1,0 +1,77 @@
+
+
+#container {
+height: 200px;
+width: 550px;
+text-align: center;
+margin-left: 390px;
+margin-top: 50px;
+
+color: black;
+font-weight: bold;
+
+
+
+}
+
+.instructions {
+    height: 300px;
+width: 250px;
+border: solid black;
+margin-left: 60px;
+margin-top: 40px;
+
+}
+
+
+.guess {
+    text-align: center;
+    margin-top: -280px;
+}
+
+
+header {
+    text-align: center;
+    font-size: 90px;
+    font-family: 'Abril Fatface', cursive;
+    color: white;
+    background-color: #cdf3f8;
+    text-shadow: -1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+        1px 1px 0 #000;
+        border: dotted black;
+
+}
+#crystal1 {
+height: 250px;
+width: 250px;
+margin-top: 100px;
+ 
+
+}
+
+#crystal2 {
+    height: 250px;
+    width: 250px;
+    margin-top: 100px;
+}
+
+#crystal3 {
+    height: 250px;
+    width: 250px;
+    margin-top: 100px;
+
+}
+
+#crystal4 {
+    height: 250px;
+    width: 250px;
+    margin-top: 100px;
+
+}
+
+#crystals {
+text-align: center;
+
+}
